@@ -12,6 +12,7 @@ Added packages:
 language-pack-en-base
 nano
 software-properties-common
+wget
 ```
 
 ## Installation ##
