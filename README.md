@@ -28,6 +28,6 @@ docker run -d ghifari160/ubuntu
 | `16.04` `xenial` | 16.04          |[![](https://images.microbadger.com/badges/image/ghifari160/ubuntu:16.04.svg)](https://microbadger.com/images/ghifari160/ubuntu:16.04 "Get your own image badge on microbadger.com")|
 | `17.04` `zesty`           | 17.04          | **NOT SUPPORTED** |
 | `17.10` `artful`          | 17.10          |[![](https://images.microbadger.com/badges/image/ghifari160/ubuntu:17.10.svg)](https://microbadger.com/images/ghifari160/ubuntu:17.10 "Get your own image badge on microbadger.com")|
-| `latest` `18/04` `bionic` | 18.04          |[![](https://images.microbadger.com/badges/image/ghifari160/ubuntu.svg)](https://microbadger.com/images/ghifari160/ubuntu "Get your own image badge on microbadger.com")|
+| `latest` `18.04` `bionic` | 18.04          |[![](https://images.microbadger.com/badges/image/ghifari160/ubuntu.svg)](https://microbadger.com/images/ghifari160/ubuntu "Get your own image badge on microbadger.com")|
 
 [g16-ub-issue]: https://github.com/ghifari160/docker-ubuntu/issues
